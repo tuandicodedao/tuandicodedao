@@ -6,7 +6,7 @@
 </div>
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=1000&pause=100&color=2288F7&center=true&vCenter=true&multiline=true&random=false&width=1000&height=300&lines=Hi+there+%F0%9F%91%8B!;I'am+Tuấn+Đức.;Always+learning+new+things.;Passion+study+Data%2C+Cloud%2C+AI.;First+Cloud+Journey+community+member.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=1000&pause=100&color=2288F7&center=true&vCenter=true&multiline=true&random=false&width=1000&height=300&lines=Hi+there+%F0%9F%91%8B!;I'am+Văn+Tuấn.;Always+learning+new+things.;Passion+study+Data%2C+Cloud%2C+AI.;First+Cloud+Journey+community+member.)](https://git.io/typing-svg)
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"> About me...  
 
@@ -102,7 +102,7 @@
 
 ### 📈 GitHub Activity Graph:
 
-[![Tuấn Đức github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tuandicodedao&theme=dracula)](https://github.com/tuandicodedao/github-readme-activity-graph)
+[![Văn Tuấn github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tuandicodedao&theme=dracula)](https://github.com/tuandicodedao/github-readme-activity-graph)
 
 ### ✍️Random Dev Quote 
 
