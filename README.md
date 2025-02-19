@@ -6,20 +6,20 @@
 </div>
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=1000&pause=100&color=2288F7&center=true&vCenter=true&multiline=true&random=false&width=1000&height=300&lines=Hi+there+%F0%9F%91%8B!;I'am+V%C5%A9+Huy+.;Always+learning+new+things.;Passion+study+Data%2C+Cloud%2C+AI.;First+Cloud+Journey+community+member.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=1000&pause=100&color=2288F7&center=true&vCenter=true&multiline=true&random=false&width=1000&height=300&lines=Hi+there+%F0%9F%91%8B!;I'am+Tuấn+Đức.;Always+learning+new+things.;Passion+study+Data%2C+Cloud%2C+AI.;First+Cloud+Journey+community+member.)](https://git.io/typing-svg)
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"> About me...  
 
 <p align="center">
-  <a href="https://github.com/huyvu15">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=huyvu15&theme=vue" />
-    <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huyvu15&theme=vue&utcOffset=7"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huyvu15&theme=vue" alt="GitHub Contribution"/>
+  <a href="https://github.com/tuandicodedao">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tuandicodedao&theme=vue" />
+    <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tuandicodedao&theme=vue&utcOffset=7"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuandicodedao&theme=vue" alt="GitHub Contribution"/>
   </a>
 </p> 
 
 <!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=1000&=Hi+there+👋,+I+am+Vũ+Huy;++Welcome+to+My+Profile!;+I+just+started+programmer;Always+learning+new+things+;+Passion+study+Data;Kaggle+community+member)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=1000&=Hi+there+👋,+I+am+Tuấn+Đức;++Welcome+to+My+Profile!;+I+just+started+programmer;Always+learning+new+things+;+Passion+study+Data;Kaggle+community+member)](https://git.io/typing-svg)
 -->
 
 <h2 align = "center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2>
@@ -35,18 +35,18 @@
 
 - 💬 Ask me about **Some Project for Algorithm, Game, AI, Data Engineer, Software Developer, Quantitative Finance, Cloud(AWS) ...**
 
-- 📫 How to reach me **huyv80313@gmail.com**
+- 📫 How to reach me **tuantienti0710@gmail.com**
 
-# <h2 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" height="50" style="margin-right: 50px;"> Contact  me 🤝 </h2>
+# <h2 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" height="50" style="margin-right: 50px;"> Contact me 🤝 </h2>
 
 <h1 align="center"><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <p align="center">
-	<a href="tuantienti0710@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/tuandicodedao"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/tu%E1%BA%A5n-nguy%E1%BB%85n-037b7b220/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="tuantienti0710@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://github.com/tuandicodedao"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/tu%E1%BA%A5n-nguy%E1%BB%85n-037b7b220/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
- 
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Language and tools <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70"> <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"> <!-- hình ngôi sao -->
+
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Language and tools <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70"> <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"> 
 
 <br><br>
 <div style="center">
@@ -70,14 +70,13 @@
 <img title="R" alt="R" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg" width="55" style="vertical-align:down; margin:4px"/>
 <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 <img title="Pandas" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg"width="70" height="40" style="vertical-align:down; margin:4px"/>
 <img title="Docker" alt="Docker" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/docker.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 <img title="VSCode" alt="VSCode" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/vscode.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 <img title="Linux" alt="Linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/>
 <img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 <img title="Apache Spark" alt="Apache Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="50" style="vertical-align:down; margin:4px"/>
-<img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40"/> -->
-
+<img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40"/>
 </div>
 
 <br><br> 
@@ -87,70 +86,38 @@
 <table style="width:80%;">
   <tr>
     <td>
-       <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=huyvu15&show_icons=true&theme=buefy&hide_border=true" alt="huyvu15" width="100%"/>  
-      <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyvu15&langs_count=8&layout=compact&theme=buefy&hide_border=true" alt="huyvu15" width="80%"/>
+       <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tuandicodedao&show_icons=true&theme=buefy&hide_border=true" alt="tuandicodedao" width="100%"/>  
+      <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuandicodedao&langs_count=8&layout=compact&theme=buefy&hide_border=true" alt="tuandicodedao" width="80%"/>
     </td>
     <td>
       <p align="center"> 
         <!-- img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="80%"/ -->
 	<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="dev" width="80%">
 	<!--<img align='right' src="https://nordiccoder.com/app/uploads/2019/03/front-end-developers-openings-1.gif" alt="dev" width="80%"> -->
-        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huyvu15&" alt="huyvu15" width = "1000%" /></p>
+        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuandicodedao&" alt="tuandicodedao" width = "1000%" /></p>
       </p>
     </td>
   </tr>
 </table>
 
-
 ### 📈 GitHub Activity Graph:
 
-[![Vu Huy github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huyvu15&theme=dracula)](https://github.com/huyvu15/github-readme-activity-graph)
+[![Tuấn Đức github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tuandicodedao&theme=dracula)](https://github.com/tuandicodedao/github-readme-activity-graph)
 
-<!--
-## </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Some certificate <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
-
-
-
-| STT |           	 Certificate                     |                                      Link                                    |   Year  |
-|-----|--------------------------------------------------|------------------------------------------------------------------------------|---------|
-|  1  |   Google IT Automation with Python(Coursera)     | https://coursera.org/share/303dd61da51bb8b4231fad9d40b1bdc1          	|   2023  |
-|  2  |   Git_and_Ruby(SOICT)                            | https://github.com/huyvu15/Certificate/blob/main/Git_and_Ruby.jpg		|   2023  |
-|  3  |   Google Data Analytics(Coursera)                | https://coursera.org/share/df8e94eef9386cc4cabb8bffe5ceb291 			|   2023  |
-|  4  |   Lập trình python cơ bản(Tek4)         	 | https://tek4.vn/chung-chi/chi-tiet/136                               	|   2022  |
-|  5  |   Problem Solving(Hackerrank)			 | https://www.hackerrank.com/certificates/ceaf7fbd6610				|   2023  |
-|  6  |   Google Project Managements(Coursera)  	 | https://coursera.org/share/f737a7b23e99bf7c12e059a2f5c0a13f 			|   2023  |
-|  7  |   Data engineer(AI4E)			         | https://drive.google.com/drive/u/0/folders/1EIa150KxoVnb-KlP-kNCXa1uWbvGJVzS |   2023  |
-|  8  |   Cloud for beginner                             | https://www.udemy.com/certificate/UC-bb41f5df-32ce-42b5-9021-87c2cd166669/   |   2023  |
-|  9  |   Machine Learning(DeepLearning.AI)              | https://coursera.org/share/a287425616794b87b414107554a9e95a			|   2024  |
-|  10 |         Data Engineering(IBM)        		 | https://coursera.org/share/d54205a49e0c2ce57e29e70b0ccacb5d			|   2024  |
-
-
-<div align="center">
-    <img src="https://leetcard.jacoblin.cool/huyvu15?animation=true&border=1&ext=activity&font=Baloo_2&height=400&hide=&radius=4&theme=nord&width=1000" alt=""/>
-</div>
-<div align="center">
-    <img src="https://leetcard.jacoblin.cool/huyvu15?animation=true&border=1&ext=heatmap&font=Baloo_2&height=400&hide=&radius=4&theme=nord&width=1000" alt=""/>
-</div>
--->
 ### ✍️Random Dev Quote 
 
 [](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
-
-[![](https://visitcount.itsvg.in/api?id=huyvu15&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=tuandicodedao&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/huyvu15/count.svg" />
+  <img src="https://profile-counter.glitch.me/tuandicodedao/count.svg" />
 </p> 
-
- 
-<!--![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huyvu15&theme=nord_bright&utcOffset=2)-->
 
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 
 <img src = "https://github.com/innng/innng/blob/master/assets/kyubey.gif" width = 85px> 
 
+Thank you for visiting ❤️
 
-
-Thank you for visiting ❤️ 
